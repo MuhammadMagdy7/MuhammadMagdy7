@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohamed Magdy and I'm a Full-stack developer from Egypt.</p>
+<p align="left">My name is Mohamed Magdy and I'm a Jr. Data engineer and web developer from Egypt.</p>
 
 ###
 
