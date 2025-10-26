@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 مرحباً، أنا محمد مجدي | Hi, I'm Mohamed Magdy
+# 👋 Hi, I'm Mohamed Magdy
 
 ### 🚀 Data Engineer & AI Engineer
 
