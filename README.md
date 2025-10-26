@@ -134,13 +134,13 @@ Passionate **Data Engineer** and **AI Engineer** with expertise in building scal
 ## 💼 Professional Experience
 
 ### 🌟 Huawei Big Data Associate Trainee | NTI & ETA
-**September 2024**
+**September 2025**
 - Completed 80-hour intensive program in modern big data ecosystem
 - Hands-on experience with data ingestion, real-time processing, and analysis
 - **Technologies:** Hadoop (HDFS, YARN), Spark, Hive, HBase, Kafka, Flink, MapReduce, Elasticsearch
 
 ### 💻 Software Engineer | Freelancer
-**November 2022 - September 2024**
+**November 2022 - September 2025**
 - Developed and launched **10+ full-stack web applications**
 - Handled complete project lifecycle from database design to API development
 - Maintained and updated existing software infrastructure
